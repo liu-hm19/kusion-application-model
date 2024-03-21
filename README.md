@@ -1,1 +1,1 @@
-# kusion-application-model
+# KAM (Kusion Application Model)
