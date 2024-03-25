@@ -1,8 +1,5 @@
 import schema.v1.workload as wl
 import schema.v1.trait as t
-import schema.v1.monitoring as m
-import schema.v1.accessories.mysql
-import schema.v1.accessories.postgres
 
 schema AppConfiguration:
     """ AppConfiguration is a developer-centric definition that describes how to run an Application.
